@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../DDNS/.idea/DDNS.iml" filepath="$PROJECT_DIR$/../DDNS/.idea/DDNS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Kim.Registry.iml" filepath="$PROJECT_DIR$/.idea/Kim.Registry.iml" />
     </modules>
   </component>
